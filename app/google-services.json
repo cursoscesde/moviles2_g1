@@ -7,35 +7,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:279304020041:android:b25ca12b7b790acd7d5f98",
-        "android_client_info": {
-          "package_name": "com.cesde.moviles2"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "279304020041-n2spbac5n8lfp15f7k2rdvekmpqp4g3m.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDl6v1sb6YAiAdFp7lgAAA8tQkqtskVykM"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "279304020041-n2spbac5n8lfp15f7k2rdvekmpqp4g3m.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:279304020041:android:a1cd7969f98f18b77d5f98",
         "android_client_info": {
           "package_name": "com.cursoscesde.moviles2"
