@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Firestore</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="account">Don´t you have an account? SignIn</string>
+</resources>
